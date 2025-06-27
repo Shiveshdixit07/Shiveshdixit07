@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **GenAI**
 
-- 💬 Ask me about **React, Next.js, and Node.js!**
+- 💬 Ask me about **React, Next.js, and Node.js**
 
 - 📫 How to reach me **shiveshdixit17@gmail.com**
 
