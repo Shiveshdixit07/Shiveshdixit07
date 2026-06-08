@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shiveshdixit17@gmail.com**
 
-### [Download Resume/CV](https://drive.google.com/file/d/1pIPzTLMarc1iwSHQ1zZ1jnOEZYERNepE/view)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
